@@ -5,4 +5,4 @@ uk-postcode-map
 
 The HTML files here build (slightly) on that tutorial, to create a choropleth based on UK postcodes.
 
-![alt text](images/uk-postcode-area-step-4.gif "UK postcode choropleth")
+![alt text](images/uk-postcode-area-step-4.GIF "UK postcode choropleth")
